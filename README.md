@@ -1,5 +1,5 @@
 # HyperCubeHarmonic and SphereHarmonic
-This repository contains two notebooks of Wolfram Mathematica. They are a type of musical instrument designed by Maria Manone and Takashi Yoshino.
+This repository contains two notebooks of Wolfram Mathematica. They are a type of musical instrument designed by Maria Mannone and Takashi Yoshino.
 - HyperCubeHarmonic.nb: A virtual program of a musical instrument based on the Rubik's cube in the four-dimensional space. 
 - SphereHarmonic.nb: A virtual program of a musical instrument based on the C8 temari division on the spherical surface. 
 
